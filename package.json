@@ -1,8 +1,8 @@
 {
   "name": "theme-cobalt2",
   "version": "2.1.6",
-  "displayName": "Cobalt2 Theme Official",
-  "description": "🔥 Official theme by Wes Bos.",
+  "displayName": "Cobalt2 Theme Official Dev",
+  "description": "🔥 DEV Official theme by Wes Bos.",
   "publisher": "wesbos",
   "icon": "images/logo.png",
   "repository": {
@@ -29,7 +29,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cobalt2",
+        "label": "Cobalt2 DEV",
         "uiTheme": "vs-dark",
         "path": "./theme/cobalt2.json"
       }
